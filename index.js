@@ -11,6 +11,8 @@ function scuberGreetingForFeet(){
     ("Charging $30 for the ride");
     
   } else (ride > 2500) {
+    customer = false; {
+    } else {
     customer = false;
   }
 }
