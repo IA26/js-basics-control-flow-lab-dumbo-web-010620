@@ -11,7 +11,7 @@ function scuberGreetingForFeet(){
     ("Charging $30 for the ride");
     
   } else if (ride > 2500) {
-    customer = false; {
+      ("We don't allow rides over 2500 feet")
     } else {
     customer = false;
   }
