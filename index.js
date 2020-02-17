@@ -3,8 +3,10 @@ function scuberGreetingForFeet(){
   let customer;
   const ride = 300 
   
-  if (ride >= 400){
-    
+  if (ride =< 400){
+    let customer = true; 
+  }
+  else if () {
     
   }
 }
