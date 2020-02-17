@@ -8,7 +8,10 @@ function scuberGreetingForFeet(){
     ("Here's your free sample!");
   }
   else if (ride > 2000) {
-    
+    ("Charging $30 for the ride")
+  }
+  else (ride > 2500) {
+    customer = false;
   }
 }
 
