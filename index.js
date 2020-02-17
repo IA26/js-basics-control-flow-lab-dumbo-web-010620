@@ -3,7 +3,7 @@ function scuberGreetingForFeet(){
   let customer;
   const ride = 2000 
   
-  if (ride  400) {
+  if (ride <= 400) {
     let customer = true;
     ("Here's your free sample!");
   } else if (ride > 2000) {
