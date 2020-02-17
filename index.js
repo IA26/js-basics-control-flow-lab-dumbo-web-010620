@@ -5,6 +5,7 @@ function scuberGreetingForFeet(){
   
   if (ride >= 400){
     
+    
   }
 }
 
