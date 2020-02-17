@@ -18,7 +18,8 @@ function scuberGreetingForFeet(){
 }
 
 function ternaryCheckCity(){
-  const city = "NYC"
+  const city = "NYC";
+  
 }
 
 function switchOnCharmFromTip(){
