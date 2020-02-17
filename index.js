@@ -5,6 +5,7 @@ function scuberGreetingForFeet(){
   
   if (ride =< 400){
     let customer = true; 
+    ("Here's your free sample!")
   }
   else if () {
     
